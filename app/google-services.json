@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "713372387730",
+    "firebase_url": "https://roompushnotification.firebaseio.com",
+    "project_id": "roompushnotification",
+    "storage_bucket": "roompushnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713372387730:android:64ff312069cd858ee8d94b",
+        "android_client_info": {
+          "package_name": "com.example.roompushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713372387730-fsgsp6urumliieebeb2ecjk8egkruu23.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roompushnotification",
+            "certificate_hash": "802070396a450a71141b31a0dd466af762e261cf"
+          }
+        },
+        {
+          "client_id": "713372387730-2q8c5jv127uskfo8ejqfhfgeqbkkpnjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBaJmdnUwehKu6KfsJ7CFAqRoTh_0luWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713372387730-2q8c5jv127uskfo8ejqfhfgeqbkkpnjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
